@@ -79,7 +79,7 @@ nav:
 edit_uri: 'blob/master/docs'
 theme:
   name: material
-  logo: img/python-logo.png
+  logo: img/python-logo-192x192.png
   favicon: img/favicon.ico
   palette:
     primary: 'blue'
@@ -98,6 +98,10 @@ markdown_extensions:
 plugins:
     - search
 # Google Analytics Site ID: G-EP38Z3PVD5
+extra_css:
+  - 'css/extras.css'
+extra_javascript:
+  - 'js/extras.js'
 extra:
   analytics:
     provider: google

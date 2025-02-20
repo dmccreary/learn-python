@@ -1,5 +1,11 @@
-# CoderDojo Twin Cities Python Resources
-This GitHub repository is for sharing teaching resources to teach Python. This includes hints on getting your Python environments setup up and extensive lesson plans for several environments.
+# Learning Python with AI
+
+![](./img/journey-map-beginning-python)
+
+This website and GitHug repository contains resources for both students and teachers
+learning Python with Generative AI tools. 
+
+This includes hints on getting your Python environments setup up and extensive lesson plans for several environments.
 
 
 Our mentors have used several different environments for teaching Python.  They each have pros and cons.  What our mentors like is getting new students started using a graphical programming environment such as turtle graphics libraries.  Here are some of our favorite tools:
