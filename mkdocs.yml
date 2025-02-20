@@ -79,10 +79,11 @@ nav:
 edit_uri: 'blob/master/docs'
 theme:
   name: material
-  logo: img/coderdojo-logo.png
+  logo: img/python-logo.png
+  favicon: img/favicon.ico
   palette:
-    primary: '#642580'
-    accent: '#41BAC1'
+    primary: 'blue'
+    accent: 'navy'
   feature:
     tabs: true
   custom_dir: 'theme'
