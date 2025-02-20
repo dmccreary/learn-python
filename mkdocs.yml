@@ -1,4 +1,9 @@
-site_name: 'CoderDojo TC Python'
+site_name: 'Learning Python with AI'
+site_description: 'Resources for teaching beginning Python with AI.'
+site_author: 'Dan McCreary'
+repo_name: 'GitHub Repo'
+repo_url: 'https://github.com/dmccreary/learn-python'
+
 nav:
   - CoderDojo TC: https://coderdojotc.github.io/CoderDojoTC/
   - Beginning Python - Trinket:
@@ -67,10 +72,7 @@ nav:
   - Contact:
     - Contact: contact.md
 
-site_description: 'Resources for teaching Python to CoderDojo Twin Cities students.'
-site_author: 'Dan McCreary'
-repo_name: 'GitHub Repo'
-repo_url: 'https://github.com/CoderDojoTC/python'
+
 
 # CoderDojo Standards from here down
 edit_uri: 'blob/master/docs'
