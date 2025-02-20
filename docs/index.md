@@ -1,6 +1,6 @@
 # Learning Python with AI
 
-![](./img/journey-map-beginning-python)
+![](./img/journey-map-beginning-python.png)
 
 This website and GitHug repository contains resources for both students and teachers
 learning Python with Generative AI tools. 
