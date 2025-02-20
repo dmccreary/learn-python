@@ -3,6 +3,7 @@ site_description: 'Resources for teaching beginning Python with AI.'
 site_author: 'Dan McCreary'
 repo_name: 'GitHub Repo'
 repo_url: 'https://github.com/dmccreary/learn-python'
+site_url: 'https://dmccreary.github.io/learn-python/'
 
 nav:
   - CoderDojo TC: https://coderdojotc.github.io/CoderDojoTC/
